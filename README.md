@@ -17,3 +17,9 @@ file-by-file source table lives in the plan package (`Plans_Specs/explore-ilmi/s
 `galleries-and-gardens` (gallery) and `learning-resources` (learning): the Figma tile icons of the
 Explore home frame (`wpMHFwV1gK6Th6HGqWN0uR`, node `284:33738`), 26 × 26, one navy fill. Only
 `svg`, `g` and `path` elements: no script, no event handler, no style, no external reference.
+
+## v11 — Explore mobile main page art, higher resolution
+`explore/mobile/` `hero-whats-on`, `category-events`, `category-activities`, `category-spaces` and
+`category-learning` replaced with the enhanced exports (about 3× the v10 size, which showed
+pixelated on mobile). Same names, WebP quality 85, metadata stripped, transparency kept. Every other
+file is unchanged from v10, so every older URL stays valid.
