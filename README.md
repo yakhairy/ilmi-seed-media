@@ -33,3 +33,7 @@ folders. Six of them are then replaced with the newer content exports, same name
 `how-does-a-sundial-tell-time-with-the-sun` (1000 × 1778). The SVGs and videos are unchanged.
 The tag stays under jsDelivr's 50 MB package limit (about 45 MB); a version above it answers 403.
 Every older URL stays valid.
+
+## v13 — mobile FAQ card with a transparent background
+`mobile/discover_faq` replaced with a new 1920 × 1280 export with a transparent background (the v12
+picture was opaque). Every other file is unchanged from v12, so every older URL stays valid.
