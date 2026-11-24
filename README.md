@@ -37,3 +37,11 @@ Every older URL stays valid.
 ## v13 — mobile FAQ card with a transparent background
 `mobile/discover_faq` replaced with a new 1920 × 1280 export with a transparent background (the v12
 picture was opaque). Every other file is unchanged from v12, so every older URL stays valid.
+
+## v14 — flat learning cards
+Seven `explore/learning` cards replaced with new flat-style exports, same paths:
+`how-do-bats-see-in-the-dark`, `how-do-birds-know-where-to-go` (564 × 1002),
+`how-do-chameleons-change-color`, `how-does-a-sundial-tell-time-with-the-sun`,
+`why-are-all-fingerprints-unique`, `why-do-cats-always-land-on-their-feet` and
+`why-does-lightning-flash` (1000 × 1778). Every other file is unchanged from v13, so every older URL
+stays valid.
