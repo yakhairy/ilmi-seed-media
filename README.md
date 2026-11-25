@@ -50,3 +50,9 @@ stays valid.
 Seven `explore/spaces` pictures replaced with new 1536 × 1024 exports, same paths: `alardh-garden`,
 `journey-of-inventions`, `life-on-earth`, `live-lab`, `our-bodies`, `our-powers` and
 `wonders-of-energy`. Every other file is unchanged from v14, so every older URL stays valid.
+
+## v16 — Home "For schools" section
+`home/for-schools.webp` (952 × 640, rounded corners on the section navy, as exported): the Figma S00 "Schools offering" picture
+(`wpMHFwV1gK6Th6HGqWN0uR`, node `1172:15087`, the 476 × 320 "event thumb") exported at scale 2,
+WebP quality 85, metadata stripped. Every other file is unchanged from v15, so every older URL stays
+valid.
