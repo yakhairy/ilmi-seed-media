@@ -45,3 +45,8 @@ Seven `explore/learning` cards replaced with new flat-style exports, same paths:
 `why-are-all-fingerprints-unique`, `why-do-cats-always-land-on-their-feet` and
 `why-does-lightning-flash` (1000 × 1778). Every other file is unchanged from v13, so every older URL
 stays valid.
+
+## v15 — new Explore space pictures
+Seven `explore/spaces` pictures replaced with new 1536 × 1024 exports, same paths: `alardh-garden`,
+`journey-of-inventions`, `life-on-earth`, `live-lab`, `our-bodies`, `our-powers` and
+`wonders-of-energy`. Every other file is unchanged from v14, so every older URL stays valid.
